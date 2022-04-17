@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/floppy-disk.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/left.png</file>
+        <file>icons/logout.png</file>
+        <file>icons/magnifying-glass.png</file>
+        <file>icons/refresh-page-option.png</file>
+        <file>icons/right.png</file>
+        <file>icons/rotate-left.png</file>
+        <file>icons/rotate-right.png</file>
+        <file>icons/save.png</file>
+        <file>icons/search-16492.png</file>
+        <file>icons/zoom-in.png</file>
+    </qresource>
+</RCC>
